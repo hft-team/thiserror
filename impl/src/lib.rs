@@ -1,3 +1,5 @@
+#![feature(proc_macro_byte_character)]
+#![feature(proc_macro_c_str_literals)]
 #![allow(
     clippy::blocks_in_conditions,
     clippy::cast_lossless,
